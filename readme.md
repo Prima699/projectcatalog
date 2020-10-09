@@ -49,6 +49,6 @@ Need to improve :
 from me just that things I should update next 
 that's it from me, I start develop from wednesday 7th. sorry my fault not checking my mail inbox.
 
-Productcatalog from Prima Rizchi Anaitulloh, hope I can join with you all
+Productcatalog from Prima Rizchi Anaitulloh, hope I can join with you all .........
 you can catch up on me at my mail or phone number, I suggest with my phone number via Whatsapps 
 
