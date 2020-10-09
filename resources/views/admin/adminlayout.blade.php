@@ -138,7 +138,7 @@
                 ver 0.0.1
             </div>
             <!-- Default to the left -->
-            <strong>Copyright &copy; {{ date('Y') }} <a href="#">Company</a>.</strong> All rights reserved.
+            <strong>Copyright &copy; {{ date('Y') }} <a href="#">ProductCatalogPR</a>.</strong> All rights reserved.
         </footer>
 
     </div>
