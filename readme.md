@@ -44,6 +44,7 @@ Need to improve :
 - More Validation form include
 - Price input auto generate following Rupiah currency or dollar
 - Image of product_pic must be fixed
+- Flagging for product can be displayed at Frontend Web
 
 from me just that things I should update next 
 that's it from me, I start develop from wednesday 7th. sorry my fault not checking my mail inbox.
@@ -51,6 +52,3 @@ that's it from me, I start develop from wednesday 7th. sorry my fault not checki
 Productcatalog from Prima Rizchi Anaitulloh, hope I can join with you all
 you can catch up on me at my mail or phone number, I suggest with my phone number via Whatsapps 
 
-Best Regards,
-Prima Rizchi Anaitulloh
-+6281221654460
